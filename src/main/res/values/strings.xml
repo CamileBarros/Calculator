@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="bttnequal">=</string>
+    <string name="bttnback">CLEAR</string>
+    <string name="bttnpoint">.</string>
+    <string name="bttnclear">AC</string>
+    <string name="multipl">x</string>
+    <string name="divise">/</string>
+    <string name="numbzero">0</string>
+    <string name="bttnpow">^</string>
+    <string name="numbthree">3</string>
+    <string name="numbtwo">2</string>
+    <string name="numbone">1</string>
+    <string name="bttnplus">+</string>
+    <string name="numbsix">6</string>
+    <string name="numbfive">5</string>
+    <string name="numbfour">4</string>
+    <string name="bttnless">-</string>
+    <string name="numbnine">9</string>
+    <string name="numbeight">8</string>
+    <string name="numbseven">7</string>
+
+</resources>
