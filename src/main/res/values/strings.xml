@@ -4,8 +4,8 @@
     <string name="bttnback">CLEAR</string>
     <string name="bttnpoint">.</string>
     <string name="bttnclear">AC</string>
-    <string name="multipl">x</string>
-    <string name="divise">/</string>
+    <string name="bttnmultipl">x</string>
+    <string name="bttndivise">/</string>
     <string name="numbzero">0</string>
     <string name="bttnpow">^</string>
     <string name="numbthree">3</string>
